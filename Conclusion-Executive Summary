@@ -1,0 +1,41 @@
+EXECUTIVE SUMMARY – Web Scraping Project
+
+Objective
+
+To extract and clean book data from a publicly available website using Python and BeautifulSoup, producing a structured dataset suitable for analytics.
+
+What Was Done
+
+Scraped all pages of BooksToScrape.com
+
+Extracted titles, prices, ratings, stock status, and product URLs
+
+Cleaned corrupted text and transformed prices to numeric values
+
+Exported results to a clean CSV file
+
+Key Results
+
+1,000+ books scraped
+
+100% clean, analysis-ready dataset
+
+UTF-8 handling ensured no garbled characters
+
+Successfully collected consistent and reliable structured data
+
+Business Value
+
+This type of workflow can be applied to:
+
+Competitor price monitoring
+
+Product catalog analytics
+
+Market research
+
+E-commerce dashboards
+
+Conclusion
+
+This project demonstrates proficiency in web scraping, data cleaning, and pipeline automation key skills for Data Analysts and Data Engineers.
